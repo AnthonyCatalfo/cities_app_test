@@ -25,6 +25,8 @@
     "suppressImplicitAnyIndexErrors": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
     "types": [
       "node",
       "jest"
